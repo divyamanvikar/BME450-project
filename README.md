@@ -1,6 +1,6 @@
 # BME450-project
 # Title
-Cardiac Calcium Detection
+Tumor Classification Using Machine Learning and Medical Image Analysis
 
 ## Team members
 Divya Manvikar (divyamanvikar), Khushi Choksi (khushichoksi05)
