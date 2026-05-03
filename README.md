@@ -5,5 +5,10 @@ Cardiac Calcium Detection
 ## Team members
 Divya Manvikar (divyamanvikar), Khushi Choksi (khushichoksi05)
 
-## Project description
-We are working with Dr. Patel is a cardiologist at IU and his dataset. The data set is cardiovascular CT imaging data of approximately 1,100 patients, with about 35 slices per scan. The goal of the project is to analyze these CT images to determine whether coronary artery calcium scores can be predicted based on tissue density, as represented by pixel intensity values.
+## Project Description
+
+This project focuses on developing and evaluating deep learning models for breast cancer image classification. The goal is to classify medical images into benign or malignant categories using supervised image classification techniques. The dataset is curated from Kaggle with over 3000 mamogram images. 
+
+The custom CNN was built using convolutional layers, ReLU activation, max pooling, dropout regularization, and a sigmoid output layer for binary classification. Transfer learning models, including ResNet18 and DenseNet121, were used to improve classification performance by leveraging pretrained feature extraction from large-scale image datasets.
+
+Model performance was evaluated using training and validation accuracy/loss curves, classification reports, and confusion matrices. Threshold tuning was also explored to better understand the tradeoff between benign and malignant predictions.
